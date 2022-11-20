@@ -1,0 +1,14 @@
+#batonnets{
+  display: flex;
+  flex-direction: row;
+}
+
+.batonnets{
+  background-color: rgb(147, 101, 0);
+  width: 3rem;
+  height: 30rem;
+  margin-left: 1rem;
+  margin-right: 1rem;
+  margin-bottom: 1rem;
+ }
+
